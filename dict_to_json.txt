@@ -1,0 +1,1 @@
+{"car": "toyota", "model": "corolla", "consumption": 7, "price": 1.5}
